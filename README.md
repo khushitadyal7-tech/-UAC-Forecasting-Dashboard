@@ -11,6 +11,11 @@ The objective is to understand historical trends and forecast three important me
 - Transfer Demand
 
 An interactive dashboard was developed using Python and Streamlit to visualize historical data, compare forecasting models, and display four-week predictions.
+## Live Demo
+
+Explore the interactive dashboard here:
+
+[Launch UAC Forecasting Dashboard](https://o8neh4rguhcow3wjgvcw8i.streamlit.app/)
 
 ## Technologies Used
 
